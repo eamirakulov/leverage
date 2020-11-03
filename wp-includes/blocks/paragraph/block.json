@@ -1,46 +1,7 @@
-{
-	"name": "core/paragraph",
-	"category": "text",
-	"attributes": {
-		"align": {
-			"type": "string"
-		},
-		"content": {
-			"type": "string",
-			"source": "html",
-			"selector": "p",
-			"default": ""
-		},
-		"dropCap": {
-			"type": "boolean",
-			"default": false
-		},
-		"placeholder": {
-			"type": "string"
-		},
-		"direction": {
-			"type": "string",
-			"enum": [
-				"ltr",
-				"rtl"
-			]
-		}
-	},
-	"supports": {
-		"anchor": true,
-		"className": false,
-		"lightBlockWrapper": true,
-		"__experimentalColor": {
-			"linkColor": true
-		},
-		"__experimentalFontSize": true,
-		"__experimentalLineHeight": true,
-		"__experimentalFeatures": {
-			"typography": {
-				"dropCap": true
-			}
-		},
-		"__experimentalSelector": "p",
-		"__unstablePasteTextInline": true
-	}
-}
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

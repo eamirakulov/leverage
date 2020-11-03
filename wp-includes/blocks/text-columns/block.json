@@ -1,32 +1,7 @@
-{
-	"name": "core/text-columns",
-	"icon": "columns",
-	"category": "design",
-	"attributes": {
-		"content": {
-			"type": "array",
-			"source": "query",
-			"selector": "p",
-			"query": {
-				"children": {
-					"type": "string",
-					"source": "html"
-				}
-			},
-			"default": [
-				{},
-				{}
-			]
-		},
-		"columns": {
-			"type": "number",
-			"default": 2
-		},
-		"width": {
-			"type": "string"
-		}
-	},
-	"supports": {
-		"inserter": false
-	}
-}
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

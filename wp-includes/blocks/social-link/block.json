@@ -1,23 +1,7 @@
-{
-	"name": "core/social-link",
-	"category": "widgets",
-	"parent": [
-		"core/social-links"
-	],
-	"attributes": {
-		"url": {
-			"type": "string"
-		},
-		"service": {
-			"type": "string"
-		},
-		"label": {
-			"type": "string"
-		}
-	},
-	"supports": {
-		"reusable": false,
-		"html": false,
-		"lightBlockWrapper": true
-	}
-}
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

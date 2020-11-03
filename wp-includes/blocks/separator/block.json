@@ -1,15 +1,7 @@
-{
-	"name": "core/separator",
-	"category": "design",
-	"attributes": {
-		"color": {
-			"type": "string"
-		},
-		"customColor": {
-			"type": "string"
-		}
-	},
-	"supports": {
-		"anchor": true
-	}
-}
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
