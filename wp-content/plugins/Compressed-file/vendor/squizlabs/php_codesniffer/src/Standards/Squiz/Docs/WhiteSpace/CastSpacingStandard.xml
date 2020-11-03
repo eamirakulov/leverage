@@ -1,7 +1,19 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+<documentation title="Cast Whitespace">
+    <standard>
+    <![CDATA[
+    Casts should not have whitespace inside the parentheses.
+    ]]>
+    </standard>
+    <code_comparison>
+        <code title="Valid: No spaces.">
+        <![CDATA[
+$foo = (<em></em>int<em></em>)'42';
+]]>
+        </code>
+        <code title="Invalid: Whitespace used inside parentheses.">
+        <![CDATA[
+$foo = (<em> </em>int<em> </em>)'42';
+]]>
+        </code>
+    </code_comparison>
+</documentation>

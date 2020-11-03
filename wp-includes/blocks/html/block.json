@@ -1,7 +1,15 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+{
+	"name": "core/html",
+	"category": "widgets",
+	"attributes": {
+		"content": {
+			"type": "string",
+			"source": "html"
+		}
+	},
+	"supports": {
+		"customClassName": false,
+		"className": false,
+		"html": false
+	}
+}

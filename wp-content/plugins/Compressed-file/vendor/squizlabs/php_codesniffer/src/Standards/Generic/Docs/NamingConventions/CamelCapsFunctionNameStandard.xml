@@ -1,23 +1,7 @@
-<documentation title="camelCaps Function Names">
-    <standard>
-    <![CDATA[
-    Functions should use camelCaps format for their names. Only PHP's magic methods should use a double underscore prefix.
-    ]]>
-    </standard>
-    <code_comparison>
-        <code title="Valid: A function in camelCaps format.">
-        <![CDATA[
-function <em>doSomething</em>()
-{
-}
-        ]]>
-        </code>
-        <code title="Invalid: A function in snake_case format.">
-        <![CDATA[
-function <em>do_something</em>()
-{
-}
-        ]]>
-        </code>
-    </code_comparison>
-</documentation>
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
