@@ -1,7 +1,23 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+<documentation title="Lowercase Control Structure Keywords">
+    <standard>
+    <![CDATA[
+    The php keywords if, else, elseif, foreach, for, do, switch, while, try, and catch should be lowercase.
+    ]]>
+    </standard>
+    <code_comparison>
+        <code title="Valid: Lowercase if keyword.">
+        <![CDATA[
+<em>if</em> ($foo) {
+    $bar = true;
+}
+]]>
+        </code>
+        <code title="Invalid: Uppercase if keyword.">
+        <![CDATA[
+<em>IF</em> ($foo) {
+    $bar = true;
+}
+]]>
+        </code>
+    </code_comparison>
+</documentation>

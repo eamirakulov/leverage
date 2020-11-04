@@ -1,7 +1,7 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+<documentation title="Cyclomatic Complexity">
+    <standard>
+    <![CDATA[
+    Functions should not have a cyclomatic complexity greater than 20, and should try to stay below a complexity of 10.
+    ]]>
+    </standard>
+</documentation>

@@ -1,7 +1,23 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+<documentation title="Scope Indentation">
+    <standard>
+    <![CDATA[
+    Indentation for control structures, classes, and functions should be 4 spaces per level.
+    ]]>
+    </standard>
+    <code_comparison>
+        <code title="Valid: 4 spaces are used to indent a control structure.">
+        <![CDATA[
+if ($test) {
+<em>    </em>$var = 1;
+}
+        ]]>
+        </code>
+        <code title="Invalid: 8 spaces are used to indent a control structure.">
+        <![CDATA[
+if ($test) {
+<em>        </em>$var = 1;
+}
+        ]]>
+        </code>
+    </code_comparison>
+</documentation>

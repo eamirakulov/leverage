@@ -1,19 +1,7 @@
-<documentation title="Class Instantiation">
-    <standard>
-    <![CDATA[
-    When instantiating a new class, parenthesis MUST always be present even when there are no arguments passed to the constructor.
-    ]]>
-    </standard>
-    <code_comparison>
-        <code title="Valid: Parenthesis used.">
-        <![CDATA[
-new Foo();
-        ]]>
-        </code>
-        <code title="Invalid: Parenthesis not used.">
-        <![CDATA[
-new Foo;
-        ]]>
-        </code>
-    </code_comparison>
-</documentation>
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

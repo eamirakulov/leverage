@@ -1,7 +1,19 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+<documentation title="Deprecated Functions">
+    <standard>
+    <![CDATA[
+    Deprecated functions should not be used.
+    ]]>
+    </standard>
+    <code_comparison>
+        <code title="Valid: A non-deprecated function is used.">
+        <![CDATA[
+$foo = <em>explode</em>('a', $bar);
+        ]]>
+        </code>
+        <code title="Invalid: A deprecated function is used.">
+        <![CDATA[
+$foo = <em>split</em>('a', $bar);
+        ]]>
+        </code>
+    </code_comparison>
+</documentation>

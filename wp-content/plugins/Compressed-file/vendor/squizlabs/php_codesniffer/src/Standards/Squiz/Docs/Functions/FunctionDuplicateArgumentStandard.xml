@@ -1,7 +1,23 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+<documentation title="Lowercase Built-In functions">
+    <standard>
+    <![CDATA[
+    All PHP built-in functions should be lowercased when called.
+    ]]>
+    </standard>
+    <code_comparison>
+        <code title="Valid: Lowercase function call.">
+        <![CDATA[
+if (<em>isset</em>($foo)) {
+    echo $foo;
+}
+]]>
+        </code>
+        <code title="Invalid: isset not called as lowercase.">
+        <![CDATA[
+if (<em>isSet</em>($foo)) {
+    echo $foo;
+}
+]]>
+        </code>
+    </code_comparison>
+</documentation>

@@ -1,7 +1,23 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+<documentation title="Lowercase Class Keywords">
+    <standard>
+    <![CDATA[
+    The php keywords class, interface, trait, extends, implements, abstract, final, var, and const should be lowercase.
+    ]]>
+    </standard>
+    <code_comparison>
+        <code title="Valid: Lowercase class keywords.">
+        <![CDATA[
+<em>final</em> <em>class</em> Foo <em>extends</em> Bar
+{
+}
+]]>
+        </code>
+        <code title="Invalid: Initial capitalization of class keywords.">
+        <![CDATA[
+<em>Final</em> <em>Class</em> Foo <em>Extends</em> Bar
+{
+}
+]]>
+        </code>
+    </code_comparison>
+</documentation>

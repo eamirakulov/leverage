@@ -1,7 +1,22 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+<documentation title="Opening Tag at Start of File">
+    <standard>
+    <![CDATA[
+    The opening php tag should be the first item in the file.
+    ]]>
+    </standard>
+    <code_comparison>
+        <code title="Valid: A file starting with an opening php tag.">
+        <![CDATA[
+<em></em><?php
+echo 'Foo';
+        ]]>
+        </code>
+        <code title="Invalid: A file with content before the opening php tag.">
+        <![CDATA[
+<em>Beginning content</em>
+<?php
+echo 'Foo';
+        ]]>
+        </code>
+    </code_comparison>
+</documentation>

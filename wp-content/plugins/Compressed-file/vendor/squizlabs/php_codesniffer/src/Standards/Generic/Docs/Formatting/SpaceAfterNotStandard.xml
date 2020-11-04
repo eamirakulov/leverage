@@ -1,7 +1,25 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+<documentation title="Space After NOT operator">
+    <standard>
+    <![CDATA[
+    Exactly one space is allowed after the NOT operator.
+    ]]>
+    </standard>
+    <code_comparison>
+        <code title="Valid: A NOT operator followed by one space.">
+        <![CDATA[
+if (!<em> </em>$someVar || !<em> </em>$x instanceOf stdClass) {};
+        ]]>
+        </code>
+        <code title="Invalid: A NOT operator not followed by whitespace.">
+        <![CDATA[
+if (!<em></em>$someVar || !<em></em>$x instanceOf stdClass) {};
+        ]]>
+        </code>
+        <code title="Invalid: A NOT operator followed by a new line or more than one space.">
+        <![CDATA[
+if (!<em>     </em>$someVar || !<em>
+    </em>$x instanceOf stdClass) {};
+        ]]>
+        </code>
+    </code_comparison>
+</documentation>

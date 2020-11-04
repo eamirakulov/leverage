@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//wp-static.peter-leverage.workers.dev/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://wp-static.peter-leverage.workers.dev/resource/innovators-ray-gallo-gallo-llp/</loc>
-		<lastmod>2020-11-04T10:51:49+00:00</lastmod>
+		<loc>https://wp-static.peter-leverage.workers.dev/resource/learning-the-hard-way-for-profit-colleges-pay-dearly-for-their-students-discontent/</loc>
+		<lastmod>2020-11-04T16:52:33+00:00</lastmod>
 		<image:image>
-			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/10/article-4-941c50c82ecf9391f90aebbb9ebb859d145077aa51bed7bddd7553ba8c434c04.png</image:loc>
-			<image:title><![CDATA[article-4-941c50c82ecf9391f90aebbb9ebb859d145077aa51bed7bddd7553ba8c434c04]]></image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://wp-static.peter-leverage.workers.dev/resource/legal-rebels/</loc>
-		<lastmod>2020-11-04T11:17:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/10/article-rebels-f3474c275ccdaad54633211f0d11261777894e5f783f6fe2587c0ba41a401f68.png</image:loc>
-			<image:title><![CDATA[article-rebels-f3474c275ccdaad54633211f0d11261777894e5f783f6fe2587c0ba41a401f68]]></image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://wp-static.peter-leverage.workers.dev/resource/a-new-aggregate-litigation-model-emerges-technology-driven-mass-actions/</loc>
-		<lastmod>2020-11-04T11:19:11+00:00</lastmod>
-		<image:image>
-			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/10/article-1-dabc4eaa10d92ce5a1b5e3b23bff23437e1ead3a0d0d16fcd28fb0c574eee647.png</image:loc>
-			<image:title><![CDATA[article-1-dabc4eaa10d92ce5a1b5e3b23bff23437e1ead3a0d0d16fcd28fb0c574eee647]]></image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://wp-static.peter-leverage.workers.dev/resource/listen-to-ray-at-codex-legaltech/</loc>
-		<lastmod>2020-11-04T11:20:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/10/article-8-43f7ae6b997123ecc335fb11f59cf570cba9e2b13dbac8af2c207dcb0c5a8fe9.png</image:loc>
-			<image:title><![CDATA[article-8-43f7ae6b997123ecc335fb11f59cf570cba9e2b13dbac8af2c207dcb0c5a8fe9]]></image:title>
+			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/11/california-lawyer.jpg</image:loc>
+			<image:title><![CDATA[california-lawyer]]></image:title>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://wp-static.peter-leverage.workers.dev/resource/can-david-still-sue-goliath/</loc>
-		<lastmod>2020-11-04T11:21:34+00:00</lastmod>
+		<lastmod>2020-11-04T16:55:10+00:00</lastmod>
 		<image:image>
-			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/10/article-2-48f983ec1b9cc88ca6d0ade4080b57cdf9426c8c62ad7450b044672c519ae44a.png</image:loc>
-			<image:title><![CDATA[article-2-48f983ec1b9cc88ca6d0ade4080b57cdf9426c8c62ad7450b044672c519ae44a]]></image:title>
+			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/11/atlantic.jpg</image:loc>
+			<image:title><![CDATA[atlantic]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://wp-static.peter-leverage.workers.dev/resource/listen-to-ray-at-codex-legaltech/</loc>
+		<lastmod>2020-11-04T16:55:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/11/codex.jpg</image:loc>
+			<image:title><![CDATA[codex]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://wp-static.peter-leverage.workers.dev/resource/innovators-ray-gallo-gallo-llp/</loc>
+		<lastmod>2020-11-04T16:56:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/11/innovators.jpg</image:loc>
+			<image:title><![CDATA[innovators]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://wp-static.peter-leverage.workers.dev/resource/a-new-aggregate-litigation-model-emerges-technology-driven-mass-actions/</loc>
+		<lastmod>2020-11-04T16:56:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/11/california-litigation-e1604509362698.jpg</image:loc>
+			<image:title><![CDATA[california-litigation]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://wp-static.peter-leverage.workers.dev/resource/legal-rebels/</loc>
+		<lastmod>2020-11-04T16:58:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/11/aba.jpg</image:loc>
+			<image:title><![CDATA[aba]]></image:title>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://wp-static.peter-leverage.workers.dev/resource/the-law-firm-of-the-future/</loc>
-		<lastmod>2020-11-04T11:22:31+00:00</lastmod>
+		<lastmod>2020-11-04T16:59:15+00:00</lastmod>
 		<image:image>
-			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/10/article-8-43f7ae6b997123ecc335fb11f59cf570cba9e2b13dbac8af2c207dcb0c5a8fe9.png</image:loc>
-			<image:title><![CDATA[article-8-43f7ae6b997123ecc335fb11f59cf570cba9e2b13dbac8af2c207dcb0c5a8fe9]]></image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://wp-static.peter-leverage.workers.dev/resource/learning-the-hard-way-for-profit-colleges-pay-dearly-for-their-students-discontent/</loc>
-		<lastmod>2020-11-04T11:23:18+00:00</lastmod>
-		<image:image>
-			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/10/article-7-edba20a7bf135434a6ea3d44bb2125e52f309171b27a4dc217997dd2d00fad9f.png</image:loc>
-			<image:title><![CDATA[article-7-edba20a7bf135434a6ea3d44bb2125e52f309171b27a4dc217997dd2d00fad9f]]></image:title>
+			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/11/codex.jpg</image:loc>
+			<image:title><![CDATA[codex]]></image:title>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://wp-static.peter-leverage.workers.dev/resource/cal-ethcis-opinion-2012-184-ada-virtual-law-office/</loc>
-		<lastmod>2020-11-04T11:45:04+00:00</lastmod>
+		<lastmod>2020-11-04T18:32:48+00:00</lastmod>
 		<image:image>
-			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/11/article-5-6ea60909a9e73a9dc915eb8564f5e6f239e829f7c704978d90a8cc923d50aaef-1.png</image:loc>
-			<image:title><![CDATA[article-5-6ea60909a9e73a9dc915eb8564f5e6f239e829f7c704978d90a8cc923d50aaef (1)]]></image:title>
+			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/11/Screen-Shot-2020-11-05-at-12-2-1.jpg</image:loc>
+			<image:title><![CDATA[law1]]></image:title>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://wp-static.peter-leverage.workers.dev/resource/petersen-v-bank-of-america/</loc>
-		<lastmod>2020-11-04T11:45:37+00:00</lastmod>
+		<lastmod>2020-11-04T18:33:18+00:00</lastmod>
 		<image:image>
-			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/11/article-3-bb57ac2f80cf40b4dc2bba91726bd81f8ed4628aecb58d8961e16b8986470895-1.png</image:loc>
-			<image:title><![CDATA[article-3-bb57ac2f80cf40b4dc2bba91726bd81f8ed4628aecb58d8961e16b8986470895 (1)]]></image:title>
+			<image:loc>https://wp-static.peter-leverage.workers.dev/wp-content/uploads/2020/11/Screen-Shot-2020-11-05-at-12-3-1.jpg</image:loc>
+			<image:title><![CDATA[law2]]></image:title>
 		</image:image>
 	</url>
 </urlset>

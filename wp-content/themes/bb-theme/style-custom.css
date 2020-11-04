@@ -89,6 +89,7 @@ header div.menu #menu-header-menu-1 > li.right-menu a {
   border: 2px solid #FF5C00;
   border-radius: 2px;
   text-transform: uppercase;
+  font-weight: bold;
   padding: 10px 15px;
   display: inline-block;
 }
@@ -100,6 +101,7 @@ header div.menu #menu-header-menu-1 > li.demo a {
   background: #FF5C00;
   color: #fff;
   text-transform: uppercase;
+  font-weight: bold;
   padding: 10px 15px;
   border: 2px solid #FF5C00;
   border-radius: 2px;
@@ -235,8 +237,6 @@ header div.menu #menu-header-menu-1 > li span {
   right: 0;
   top: 0;
   height: 722px;
-  background: url(/wp-content/uploads/2020/10/Img-Bg.jpg) no-repeat center;
-  background-size: cover;
 }
 @media (max-width: 767px) {
   .stick {
@@ -618,7 +618,9 @@ header div.menu #menu-header-menu-1 > li span {
 .row.post .post-categories li a:hover {
   text-decoration: none;
 }
-
+.fl-button:hover {
+  opacity: 0.6;
+}
 footer {
   border: none;
 }
