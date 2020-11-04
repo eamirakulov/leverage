@@ -1,7 +1,23 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+<documentation title="Control Structure Spacing">
+    <standard>
+    <![CDATA[
+    Control Structures should have 0 spaces after opening parentheses and 0 spaces before closing parentheses.
+    ]]>
+    </standard>
+    <code_comparison>
+        <code title="Valid: Correct spacing.">
+        <![CDATA[
+if (<em></em>$foo<em></em>) {
+    $var = 1;
+}
+        ]]>
+        </code>
+        <code title="Invalid: Whitespace used inside the parentheses.">
+        <![CDATA[
+if (<em> </em>$foo<em> </em>) {
+    $var = 1;
+}
+        ]]>
+        </code>
+    </code_comparison>
+</documentation>

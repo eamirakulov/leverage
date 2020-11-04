@@ -1,7 +1,10 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+{
+  "bootstrap": "vendor/autoload.php",
+  "path": "tests/benchmark",
+  "extensions": [
+    "Jaapio\\Blackfire\\Extension"
+  ],
+  "blackfire" : {
+    "env": "c12030d0-c177-47e2-b466-4994c40dc993"
+  }
+}

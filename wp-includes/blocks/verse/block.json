@@ -1,7 +1,20 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+{
+	"name": "core/verse",
+	"category": "text",
+	"attributes": {
+		"content": {
+			"type": "string",
+			"source": "html",
+			"selector": "pre",
+			"default": "",
+			"__unstablePreserveWhiteSpace": true
+		},
+		"textAlign": {
+			"type": "string"
+		}
+	},
+	"supports": {
+		"anchor": true,
+		"lightBlockWrapper": true
+	}
+}

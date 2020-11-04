@@ -1,29 +1,7 @@
-<documentation title="Constructor name">
-    <standard>
-    <![CDATA[
-    Constructors should be named __construct, not after the class.
-    ]]>
-    </standard>
-    <code_comparison>
-        <code title="Valid: The constructor is named __construct.">
-        <![CDATA[
-class Foo
-{
-    function <em>__construct</em>()
-    {
-    }
-}
-        ]]>
-        </code>
-        <code title="Invalid: The old style class name constructor is used.">
-        <![CDATA[
-class Foo
-{
-    function <em>Foo</em>()
-    {
-    }
-}
-        ]]>
-        </code>
-    </code_comparison>
-</documentation>
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

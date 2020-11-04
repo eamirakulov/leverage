@@ -1,7 +1,13 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+.. index::
+    single: Cookbook; Detecting Mock Objects
+
+Detecting Mock Objects
+======================
+
+Users may find it useful to check whether a given object is a real object or a
+simulated Mock Object. All Mockery mocks implement the
+``\Mockery\MockInterface`` interface which can be used in a type check.
+
+.. code-block:: php
+
+    assert($mightBeMocked instanceof \Mockery\MockInterface);

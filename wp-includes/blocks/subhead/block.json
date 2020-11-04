@@ -1,7 +1,18 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+{
+	"name": "core/subhead",
+	"category": "text",
+	"attributes": {
+		"align": {
+			"type": "string"
+		},
+		"content": {
+			"type": "string",
+			"source": "html",
+			"selector": "p"
+		}
+	},
+	"supports": {
+		"inserter": false,
+		"multiple": false
+	}
+}

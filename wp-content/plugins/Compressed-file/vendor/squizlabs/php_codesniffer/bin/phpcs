@@ -1,7 +1,19 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+#!/usr/bin/env php
+<?php
+/**
+ * PHP_CodeSniffer detects violations of a defined coding standard.
+ *
+ * @author    Greg Sherwood <gsherwood@squiz.net>
+ * @copyright 2006-2015 Squiz Pty Ltd (ABN 77 084 670 600)
+ * @license   https://github.com/squizlabs/PHP_CodeSniffer/blob/master/licence.txt BSD Licence
+ */
+
+if (is_file(__DIR__.'/../autoload.php') === true) {
+    include_once __DIR__.'/../autoload.php';
+} else {
+    include_once 'PHP/CodeSniffer/autoload.php';
+}
+
+$runner   = new PHP_CodeSniffer\Runner();
+$exitCode = $runner->runPHPCS();
+exit($exitCode);
