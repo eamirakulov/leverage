@@ -1,27 +1,7 @@
-<documentation title="Duplicate Class Names">
-    <standard>
-    <![CDATA[
-    Class and Interface names should be unique in a project.  They should never be duplicated.
-    ]]>
-    </standard>
-    <code_comparison>
-        <code title="Valid: A unique class name.">
-        <![CDATA[
-class <em>Foo</em>
-{
-}
-        ]]>
-        </code>
-        <code title="Invalid: A class duplicated (including across multiple files).">
-        <![CDATA[
-class <em>Foo</em>
-{
-}
-
-class <em>Foo</em>
-{
-}
-        ]]>
-        </code>
-    </code_comparison>
-</documentation>
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

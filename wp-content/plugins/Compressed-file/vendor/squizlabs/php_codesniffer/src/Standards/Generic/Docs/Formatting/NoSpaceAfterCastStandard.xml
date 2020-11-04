@@ -1,7 +1,19 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+<documentation title="Space After Casts">
+    <standard>
+    <![CDATA[
+    Spaces are not allowed after casting operators.
+    ]]>
+    </standard>
+    <code_comparison>
+        <code title="Valid: A cast operator is immediately before its value.">
+        <![CDATA[
+$foo = (string)1;
+        ]]>
+        </code>
+        <code title="Invalid: A cast operator is followed by whitespace.">
+        <![CDATA[
+$foo = (string)<em> </em>1;
+        ]]>
+        </code>
+    </code_comparison>
+</documentation>

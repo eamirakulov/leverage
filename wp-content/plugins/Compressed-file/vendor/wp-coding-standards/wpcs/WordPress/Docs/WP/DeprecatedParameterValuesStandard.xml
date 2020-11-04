@@ -1,7 +1,19 @@
-<html>
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+<documentation title="Deprecated Function Parameter Values">
+    <standard>
+    <![CDATA[
+    Please refrain from using deprecated WordPress function parameter values.
+    ]]>
+    </standard>
+    <code_comparison>
+        <code title="Valid: passing a valid function parameter value.">
+        <![CDATA[
+bloginfo( <em>'url'</em> );
+        ]]>
+        </code>
+        <code title="Invalid: passing a deprecated function parameter value.">
+        <![CDATA[
+bloginfo ( <em>'home'</em> ); // Deprecated WP 2.2.0.
+        ]]>
+        </code>
+    </code_comparison>
+</documentation>

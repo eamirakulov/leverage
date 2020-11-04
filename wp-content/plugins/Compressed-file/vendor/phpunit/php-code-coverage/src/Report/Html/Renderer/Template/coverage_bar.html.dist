@@ -1,5 +1,7 @@
-       <div class="progress">
-         <div class="progress-bar bg-{{level}}" role="progressbar" aria-valuenow="{{percent}}" aria-valuemin="0" aria-valuemax="100" style="width: {{percent}}%">
-           <span class="sr-only">{{percent}}% covered ({{level}})</span>
-         </div>
-       </div>
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
