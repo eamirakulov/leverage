@@ -1,23 +1,7 @@
-<documentation title="Empty Statements">
-    <standard>
-    <![CDATA[
-    Control Structures must have at least one statement inside of the body.
-    ]]>
-    </standard>
-    <code_comparison>
-        <code title="Valid: There is a statement inside the control structure.">
-        <![CDATA[
-if ($test) {
-    $var = 1;
-}
-        ]]>
-        </code>
-        <code title="Invalid: The control structure has no statements.">
-        <![CDATA[
-if ($test) {
-    <em>// do nothing</em>
-}
-        ]]>
-        </code>
-    </code_comparison>
-</documentation>
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

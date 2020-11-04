@@ -1,9 +1,7 @@
-<?php
- $phpCodeSnifferConfig = array (
-  'default_standard' => 'PSR2',
-  'report_format' => 'summary',
-  'show_warnings' => '0',
-  'show_progress' => '1',
-  'report_width' => '120',
-)
-?>
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

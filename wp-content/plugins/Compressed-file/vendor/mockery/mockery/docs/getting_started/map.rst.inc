@@ -1,4 +1,7 @@
-* :doc:`/getting_started/installation`
-* :doc:`/getting_started/upgrading`
-* :doc:`/getting_started/simple_example`
-* :doc:`/getting_started/quick_reference`
+<html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
